@@ -5,7 +5,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagojw&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div align="center" valign="top"><br>
   <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tiago-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
